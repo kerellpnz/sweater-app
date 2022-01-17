@@ -1,6 +1,6 @@
 # Sweater App
 
-## Spring Boot, Spring Security, Spring Mail, JPA, PostgreSQL, Freemarker, JUnit, Flyway
+## Spring (Boot, Security, Mail, Test), JPA, PostgreSQL, Flyway, JUnit, Freemarker 
 
 ### Created in Intellij IDEA. Thanks to Andrew from [letsCode](https://www.youtube.com/c/letsCodeDru/about) for great tutorials.
 
